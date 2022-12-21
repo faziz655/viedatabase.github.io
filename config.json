@@ -1,1 +1,85 @@
-[{"title":"muvie database List","drawable":"","submenu":"","tabs":[{"title":"database 1","provider":"webview","arguments":["https://en.indoxxi.net/"]},{"title":"database 2","provider":"webview","arguments":["https://yesmovies.to/"]},{"title":"database 3","provider":"webview","arguments":["http://m4ufree.com/"]}],"iap":false}]
+{
+  "Ads": [
+  {
+    "select_ads": "APPLOVIN",
+    "select_backup_ads": "STARTAPP",
+    "backup_mode": "1",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "ca-app-pub-3940256099942544/1033170012",
+    "admob_nativeid": "ca-app-pub-3940256099942544/2247690010",
+    "admob_openid": "ca-app-pub-3940256099942544/3419835004",
+    "interval_intertitial": 2,
+    "startappid": "211496129",
+    "fan_inter": "12345678",
+    "fan_banner_native": "12345678",
+    "fan_banner": "12345678",
+    "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+    "mopub_inter": "24534e1901884e398f1253216226017e",
+    "applovin_banner": "df5d86888b057027",
+    "applovin_inter": "be2108bde81e4e32",
+    "packagename": "com.choochoocharles.epicgamehints"
+  }
+],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Our Apps",
+      "image":"https://fscl01.fonpit.de/userfiles/7687254/image/NextPit_Android_apps.jpg",
+      "link":"https://play.google.com/store/apps/developer?id=PeekTok+Video+Downloader"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Choo-Choo Charles: Complete Walkthrough",
+      "image": "https://nintendosmash.com/wp-content/uploads/2022/12/choo-choo-prologue.jpg"
+
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Choo-Choo Charles: Complete Walkthrough",
+      "title": "Introduction",
+      "image": "https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-05-1024x576.jpg",
+      "description": "At the start of the game, follow Eugene to get a key to a small cabin.",
+      "link": "<p style=\"text-align:justify\">At the start of the game, follow Eugene to get a key to a small cabin.&nbsp;Use the key on the hangar door in front of Eugene to discover your train.</p>\n\n<p style=\"text-align:justify\"><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-01.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-01-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p style=\"text-align:justify\"><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-02.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-02-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p style=\"text-align:justify\">Board the train and move forward with the levers to exit the shed.&nbsp;Choo-choo attacks you and Eugene has fallen overboard.&nbsp;Stop the machines to find him.&nbsp;You arrive in time to hear his last words.</p>\n\n<p style=\"text-align:justify\"><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-05.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-05-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p style=\"text-align:justify\"><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-06.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-06-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p style=\"text-align:justify\">You now know your objective, to collect Choo-choo&rsquo;s eggs.&nbsp;You can now study the map to identify the different missions present on the island.&nbsp;The yellow NPCs offer you essential side quests to improve your train.&nbsp;Red NPCs are missions to get extra weapons.&nbsp;Blue NPCs are the main missions.&nbsp;We recommend doing the side quests to improve the damage and speed of the train to the maximum.&nbsp;Conserve your resources to upgrade the train, don&rsquo;t waste them fixing it.</p>\n\n<h1 style=\"text-align:center\">&nbsp;</h1>\n"
+    },
+    {
+      "id": 2,
+      "name_category": "Choo-Choo Charles: Complete Walkthrough",
+      "title": "The first egg",
+      "image": "https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-07-1024x576.jpg",
+      "description": "If you continue on the right track from the start, you’ll come across the first main mission",
+      "link": "<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-07.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-07-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-08.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-08-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-09.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-09-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-10.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-10-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p>If you continue on the right track from the start, you&rsquo;ll come across the first main mission.&nbsp;Speak to Helen in her hut so that she gives you the key to the nearby mine.&nbsp;After the discussion, the location of the southern mine appears on your map.&nbsp;Go to the mine to unlock the entrance with the key.&nbsp;</p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-11.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-11-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-12.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-12-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-13.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-13-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p>Search the cave to find the first egg at the bottom.&nbsp;Watch out for the masked guards inside.&nbsp;Jump while running to gain speed and dodge their shots.</p>\n\n<h1 style=\"text-align:center\">&nbsp;</h1>\n"
+    },
+    {
+      "id": 3,
+      "name_category": "Choo-Choo Charles: Complete Walkthrough",
+      "title": "The second egg",
+      "image": "https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-15-1024x576.jpg",
+      "description": "Start the second main mission by speaking with Greg in the Northeast (the blue NPC)",
+      "link": "<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-14.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-14-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-15.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-15-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-16.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-16-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p>Start the second main mission by speaking with Greg in the Northeast (the blue NPC).&nbsp;He gives you the key to the second mine to the north to explore.</p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-17.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-17-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-18.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-18-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-19.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-19-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-20.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-20-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p>Go to the location marked on your map to the north.&nbsp;Get inside the mine by running and jumping.&nbsp;The guards are difficult to avoid discreetly so favor speed.&nbsp;Pull the lever near the grate to collect the second egg and exit the mine.</p>\n\n<h1 style=\"text-align:center\">&nbsp;</h1>\n"
+    },
+    {
+      "id": 4,
+      "name_category": "Choo-Choo Charles: Complete Walkthrough",
+      "title": "The third egg",
+      "image": "https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-26-1024x576.jpg",
+      "description": "Talk to the NPC Gale in the northwest (southernmost) ",
+      "link": "<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-21.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-21-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-25.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-25-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-26.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-26-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-27.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-27-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p>Talk to the NPC Gale in the northwest (southernmost) to get the key and the location of the third mine.</p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-28.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-28-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-29.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-29-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-30.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-30-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p>Open the mine gate with the key and go inside to find an elevator.&nbsp;Use the elevator to reach the depths and find the last egg.&nbsp;Return to the surface with a second elevator to complete the mission</p>\n\n<h1 style=\"text-align:center\">&nbsp;</h1>\n"
+    },
+    {
+      "id": 5,
+      "name_category": "Choo-Choo Charles: Complete Walkthrough",
+      "title": "The trap",
+      "image": "https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-21-1-1024x576.jpg",
+      "description": "Talk to the NPC Paul in the northwest",
+      "link": "<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-21-1.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-21-1-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-22.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-22-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-23.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-23-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-24.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-24-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p>Talk to the NPC Paul in the northwest to get the deconstruction site mission.&nbsp;Go to the location marked on your map to reach a wooden bridge.&nbsp;Take the nearby stairs to place bombs on each pillar of the bridge.&nbsp;</p>\n\n<h2>The fight to the death</h2>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-31.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-31-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-32.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-32-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-33.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-33-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p><a href=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-34.jpg\"><img alt=\"\" src=\"https://www.gameactuality.com/wp-content/uploads/2022/12/choo-choo-charles-soluce-guide-34-1024x576.jpg\" style=\"height:576px; width:1024px\" /></a></p>\n\n<p>We recommend upgrading your train with maximum speed and damage for the final fight.&nbsp;Collect resource crates around the map or complete side missions to get resources.&nbsp;Once ready, go to the location on your map to reach the temple.&nbsp;Place the three eggs to summon Choo-choo.&nbsp;Quickly start the train to gain distance from Choo-choo Charles.&nbsp;The use of the mouse is strongly recommended to aim and shoot faster.&nbsp;Shoot the boss in the head while controlling your rate of fire to complete the game</p>\n\n<h1 style=\"text-align:center\">&nbsp;</h1>\n"
+    }
+  ]
+}
